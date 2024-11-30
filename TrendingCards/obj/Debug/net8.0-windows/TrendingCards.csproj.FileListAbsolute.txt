@@ -1,0 +1,17 @@
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\bin\Debug\net8.0-windows\TrendingCards.exe
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\bin\Debug\net8.0-windows\TrendingCards.deps.json
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\bin\Debug\net8.0-windows\TrendingCards.runtimeconfig.json
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\bin\Debug\net8.0-windows\TrendingCards.dll
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\bin\Debug\net8.0-windows\TrendingCards.pdb
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.Form1.resources
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.csproj.GenerateResource.cache
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.AssemblyInfoInputs.cache
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.AssemblyInfo.cs
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.csproj.CoreCompileInputs.cache
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.dll
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\refint\TrendingCards.dll
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.pdb
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.genruntimeconfig.cache
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\ref\TrendingCards.dll
+C:\Users\Cindy\OneDrive\Desktop\code\TrendingCards\TrendingCards\obj\Debug\net8.0-windows\TrendingCards.Properties.Resources.resources
